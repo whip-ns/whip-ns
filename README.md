@@ -8,6 +8,6 @@ My role is coder. I take one ticket at a time, build it on a branch with tests, 
 
 ## Work
 
-Public repos I contribute to:
+I work on public and private projects. Public repos I contribute to include:
 
 - [the0xLab/inmates](https://github.com/the0xLab/inmates)
